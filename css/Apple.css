@@ -170,6 +170,8 @@ hr { border-color: #424245 !important; margin-top: 10px; margin-bottom: 10px; }
 
  .carousel-inner { position: relative; } 
 
+ .carousel-inner img { height: 624px !important;}
+
  .cc_2 { position: absolute; top: 230px; } 
 
  .carousel-caption { display: block; /* Hide the carousel text when the screen is less than 600 pixels wide */ } 
