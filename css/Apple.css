@@ -168,9 +168,9 @@ hr { border-color: #424245 !important; margin-top: 10px; margin-bottom: 10px; }
 
  .navbar-brand { background-image: url(../img/app.svg.svg); background-position: right; background-repeat: no-repeat; position: absolute; top: 1px; } 
 
- .carousel-inner { position: relative; } 
+ .carousel-inner { position: relative; }
 
- .carousel-inner img { height: 624px !important;}
+ .cc_1 { margin-top: -15px;}
 
  .cc_2 { position: absolute; top: 230px; } 
 
